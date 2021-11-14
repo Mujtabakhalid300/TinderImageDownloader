@@ -1,0 +1,7 @@
+bs4
+selenium
+requests
+time
+urlib.request
+os
+lxml
